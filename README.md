@@ -1,16 +1,38 @@
-# snake_bit
+# Snake Byte
 
-A new Flutter project.
+**A classic Snake Feeding Game developed using Flutter.**
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
+  To run the application, you will need to have the following installed on your machine:
 
-A few resources to get you started if this is your first Flutter project:
+    Flutter
+    Android Studio or Xcode
+    
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installing
+  1. Clone this repository:
+  
+    git clone https://github.com/athulbenny/snake-byte.git
+    
+  2. Open the project in Android Studio or Xcode.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  3. Run the application on an emulator or a physical device.
+  
+
+## How to Play
+  When the game starts, you will see a snake and a food item on the screen.
+
+  Use the arrow keys to move the snake in the direction you want it to go.
+
+  The goal is to make the snake eat the food item without colliding with its own body.
+
+  Each time the snake eats a food item, it grows longer and the score increases.
+
+  If the snake collides with its own body, the game ends.
+
+  To start a new game, simply press the start button.
+
+### Built With
+Flutter - Google's UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
