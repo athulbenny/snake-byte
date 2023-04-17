@@ -23,7 +23,7 @@
 
 ## How to Play
   When the game starts, you will see a snake and a food item on the screen.
-![photo1681742754 (2)](https://user-images.githubusercontent.com/83030919/232523698-a025150b-48fd-48fc-afc0-162f77dcf341.jpeg)
+
 
   Use the arrow keys to move the snake in the direction you want it to go.
 
@@ -34,6 +34,10 @@
   If the snake collides with its own body, the game ends.
 
   To start a new game, simply press the start button.
+  
+ ### Images 
+![Screenshot 2023-04-17 203008](https://user-images.githubusercontent.com/83030919/232525791-48e4c167-69e5-47f0-a540-afcd82e69f33.jpg)
+
 
 ### Built With
 Flutter - Google's UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
