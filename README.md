@@ -23,6 +23,7 @@
 
 ## How to Play
   When the game starts, you will see a snake and a food item on the screen.
+![photo1681742754 (2)](https://user-images.githubusercontent.com/83030919/232523698-a025150b-48fd-48fc-afc0-162f77dcf341.jpeg)
 
   Use the arrow keys to move the snake in the direction you want it to go.
 
